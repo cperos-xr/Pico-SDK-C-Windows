@@ -1,5 +1,4 @@
 # Quick Pico Build Guide (Windows, Hardcoded SDK Path)
-https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf
 
 Watch my tutorial here: https://www.youtube.com/watch?v=W9v0iAhu0hc
 Adapted from Low Level: Blink LED in C/C++ on the Raspberry Pi Pico [Linux SDK Setup] here: https://www.youtube.com/watch?v=JhajoAyP8e4&t=300s
@@ -42,3 +41,5 @@ Adapted from Low Level: Blink LED in C/C++ on the Raspberry Pi Pico [Linux SDK S
 
 8. Flash:
    Drag the .uf2 file to your Pico (hold BOOTSEL on plug-in)
+
+Further resources: https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf
